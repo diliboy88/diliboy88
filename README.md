@@ -5,12 +5,12 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning deforestation
-- 👯 I’m looking to collaborate on helping to make an friendly os.
-- 🤔 I’m looking for help with Trying to make a github website with custom domain.
+🔭 I’m currently working on DiBell https://github.com/diliboy88/DiBell
+🌱 I’m currently learning on how to program with XCode
+👯 I’m looking to collaborate for help to make pcbs and software
+🤔 I’m looking for help with my main project (DiBell).
 - 💬 Ask me about ...
-- 📫 How to reach me: By email or phone.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: My dream job is to be a engineer and i have 5 laptops/desktop.
+📫 How to reach me: By my email or phone.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My dream job is to be a Engineer and others.
 -->
