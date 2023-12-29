@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning on how to program with XCode
 
-👯 I’m looking to collaborate for help to make pcbs and software
+👯 I’m looking to collaborate for help to make pcbs and 3d prints
 
 🤔 I’m looking for help with my main project (DiBell).
 
