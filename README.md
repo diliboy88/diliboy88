@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-🔭 I’m currently working on DiBell https://github.com/diliboy88/DiBell
+🔭 I’m currently working on a Pico W macropad from scratch!
 
 🌱 I’m currently learning on how to program with XCode
 
-👯 I’m looking to collaborate for help to make pcbs and 3d prints
+👯 I’m looking to collaborate for help to make 3d prints
 
-🤔 I’m looking for help with my main project (DiBell).
+🤔 I’m looking for help with coding on HTML/CSS/JS for my websites.
 
 📫 How to reach me: By my email or phone.
 
