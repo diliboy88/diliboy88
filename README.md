@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a Pico W macropad from scratch!
+🔭 I’m currently working on a e-ink watch called Sp1ke!
 
 🌱 I’m currently learning on how to program with XCode
 
-👯 I’m looking to collaborate for help to make 3d prints
+👯 I’m looking to collaborate to help people who needs a simple 3d print design
 
 🤔 I’m looking for help with coding on HTML/CSS/JS for my websites.
 
