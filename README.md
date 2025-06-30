@@ -27,4 +27,5 @@
 - ⚡ Fun fact: My dream job is to be a Engineer and others.
 -->
 
-{{ wakatimeDoubleCategoryBar "💾 Languages:" wakatimeData.Languages "💼 Projects:" wakatimeData.Projects 5 }}
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
