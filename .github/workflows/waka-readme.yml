@@ -15,3 +15,11 @@ jobs:
       - uses: athul/waka-readme@master # this action name
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          REPOSITORY: diliboy88/diliboy88
+          COMMIT_MESSAGE: Updated hakatime-charts
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md 
+          COMMITTER_NAME: GitHubActionBot 
+          COMMITTER_EMAIL: action-bot@github.com 
+          AUTHOR_NAME: Dylan Corea
+          AUTHOR_EMAIL: developrpi@gmail.com
