@@ -1,33 +1,27 @@
-![Most Worked on Project](https://hackatime-badge.hackclub.com/U081RUXGF7H/DCOS) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0) ![Fedora](https://img.shields.io/badge/Fedora-294172logo=fedora&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white)
-
-### Hi there 👋
-
-🕒 I’m currently worked on a e-ink watch called Sp1ke!
-
-🔭 I’m currently working on 'ZeroHub'!
-
-🌱 I’m currently learning on how to program with XCode
-
-👯 I’m looking to collaborate to help people who needs a simple 3D print designs.
-
-🤔 I’m looking for help with coding on HTML/CSS/JS for my websites.
-
-📫 How to reach me: By my email or phone.
-
-<!--
-**diliboy88/diliboy88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
+# 💫 About Me:
+### Hi there 👋<br><br>🕒 I’m currently worked on a e-ink watch called Sp1ke!<br><br>🔭 I’m currently working on 'ZeroHub'!<br><br>🌱 I’m currently learning on how to program with XCode<br><br>👯 I’m looking to collaborate to help people who needs a simple 3D print designs.<br><br>🤔 I’m looking for help with coding on HTML/CSS/JS for my websites.<br><br>📫 How to reach me: By my email or phone.<br><br><!--<br>**diliboy88/diliboy88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.<br><br><br><br>🔭 I’m currently working on DiBell https://github.com/diliboy88/DiBell<br>🌱 I’m currently learning on how to program with XCode<br>👯 I’m looking to collaborate for help to make pcbs and software<br>🤔 I’m looking for help with my main project (DiBell).<br>- 💬 Ask me about ...<br>📫 How to reach me: By my email or phone.<br>- 😄 Pronouns: He/Him<br>- ⚡ Fun fact: My dream job is to be a Engineer or similar!<br>--><br><br>
 
-🔭 I’m currently working on DiBell https://github.com/diliboy88/DiBell
-🌱 I’m currently learning on how to program with XCode
-👯 I’m looking to collaborate for help to make pcbs and software
-🤔 I’m looking for help with my main project (DiBell).
-- 💬 Ask me about ...
-📫 How to reach me: By my email or phone.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My dream job is to be a Engineer and others.
--->
+
+## 🌐 Socials:
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@theresmarty) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developrpi@gmail.com) 
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=plastic&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=plastic&logo=gimp&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=plastic&logo=steam&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=plastic&logo=xbox&logoColor=white) ![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=plastic&logo=Itch.io&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=plastic&logo=zigbee&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=plastic&logo=epicgames&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=plastic&logo=Raspberry-Pi) ![Plex](https://img.shields.io/badge/plex-%23E5A00D.svg?style=plastic&logo=plex&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=plastic&logo=pi-hole&logoColor=white) ![Homebridge](https://img.shields.io/badge/homebridge-%23491F59.svg?style=plastic&logo=homebridge&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=plastic&logo=home-assistant&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=plastic&logo=grafana&logoColor=white) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=plastic&labelColor=171717&logoColor=5cb85c) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Most Worked on Project](https://hackatime-badge.hackclub.com/U081RUXGF7H/DCOS) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0) ![Fedora](https://img.shields.io/badge/Fedora-294172logo=fedora&logoColor=white)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=diliboy88&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=diliboy88&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=diliboy88&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=diliboy88&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=diliboy88&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
