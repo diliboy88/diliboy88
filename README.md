@@ -1,4 +1,4 @@
-![Most Worked on Project](https://hackatime-badge.hackclub.com/U081RUXGF7H/DCOS) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0) ![Fedora](https://img.shields.io/badge/Fedora-294172logo=fedora&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi) ![Xbox 360er](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?logo=Xbox%20360er&logoColor=white)
+![Most Worked on Project](https://hackatime-badge.hackclub.com/U081RUXGF7H/DCOS) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0) ![Fedora](https://img.shields.io/badge/Fedora-294172logo=fedora&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?logo=xbox&logoColor=white)
 
 ### Hi there 👋
 
