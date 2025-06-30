@@ -1,6 +1,4 @@
-![Most Worked on Project](https://hackatime-badge.hackclub.com/U081RUXGF7H/DCOS) 
-
-![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0)
+![Most Worked on Project](https://hackatime-badge.hackclub.com/U081RUXGF7H/DCOS) ![Mac OS](https://img.shields.io/badge/mac%20os-000000?logo=macos&logoColor=F0F0F0)
 
 ### Hi there 👋
 
